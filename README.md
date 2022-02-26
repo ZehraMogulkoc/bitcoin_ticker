@@ -1,6 +1,7 @@
 # bitcoin_ticker
-
-A new Flutter project.
+<p align='center'>
+<img src ='https://user-images.githubusercontent.com/87859856/155853794-30deb42e-adcc-451b-beed-e93310fbd7f6.png' width="250">
+</p>
 
 ## Getting Started
 
